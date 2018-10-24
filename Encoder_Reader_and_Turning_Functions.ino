@@ -4,7 +4,7 @@
 #include <Adafruit_LSM9DS1.h>
 #include <Adafruit_Sensor.h>  // not used in this demo but required!
 #include <digitalWriteFast.h>
-
+//bro
   // i2c
   Adafruit_LSM9DS1 lsm = Adafruit_LSM9DS1();
   int startDegree = 0;
